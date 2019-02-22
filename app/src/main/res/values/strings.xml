@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cats">Kočky</string>
+    <string name="dogs">Psi</string>
+    <string name="others">Ostatní</string>
+    <string name="favorites">oblibeni</string>
+</resources>
